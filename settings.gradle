@@ -1,0 +1,2 @@
+rootProject.name='fondodregradado'
+include ':app'
